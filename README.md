@@ -14,7 +14,7 @@ A ideia do projeto a ser desenvolvido foi de consumir alguma API aberta, dessa f
 
  Para mais detalhes foi gravado um pequeno vídeo demonstrando os detalhes e uso do projeto.
  
- - Link:
+ - Link: https://www.youtube.com/watch?v=5C8u6d9D26Q&feature=youtu.be
  
  ## Execução
  
