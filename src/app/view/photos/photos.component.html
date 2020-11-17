@@ -1,0 +1,9 @@
+<mat-card-content *ngFor="let photo of photos">
+  <alb-card
+    title="Photo: {{ photo.id }}"
+    subtitle="{{ photo.title }}"
+    image="{{ photo.thumbnaiUrl }}"
+    imageLink="{{ photo.thumbnaiUrl }}"
+    description=""
+  ></alb-card>
+</mat-card-content>

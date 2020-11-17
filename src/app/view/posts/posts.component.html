@@ -1,0 +1,7 @@
+<mat-card-content *ngFor="let post of posts">
+  <alb-card
+    title="Post: {{ post.id }}"
+    subtitle="{{ post.title }}"
+    description="Description: {{ post.body }}"
+  ></alb-card>
+</mat-card-content>
